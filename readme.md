@@ -13,7 +13,7 @@ Eat the food, grow your snake, and try to beat your high score!
 ---
 
 ## 📂 Project Structure
-
+```
 snake-game/
 │
 ├── food.py         # Handles food creation and placement
@@ -22,7 +22,7 @@ snake-game/
 ├── snake.py        # Snake movement and growth logic
 ├── .gitignore      # Files to ignore in Git
 └── README.md       # Project documentation
-
+```
 ---
 
 ## 🚀 Getting Started
